@@ -1,6 +1,6 @@
 Microservices Devops
 ==============
-@Autho: Dinesh Metkari 
+@Author: Dinesh Metkari 
 @Email: dineshmetkari@gmail.com
 ==============
 
