@@ -1,8 +1,6 @@
 Microservices Devops
 ==============
-@Author: Dinesh Metkari
-
-@Email: dineshmetkari@gmail.com
+@Author: Dinesh Metkari		
 ==============
 
 Microservice architecture project based on Spring Cloud / Netflix / Java / Docker / Docker Compose / Docker Machine / Vagrant
